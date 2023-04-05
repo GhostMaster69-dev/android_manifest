@@ -9,7 +9,7 @@
            sync-c="true"
            sync-d="true"
            sync-f="true"
-           sync-j="4" />
+           sync-j="32" />
 
   <remote  name="github"
            fetch="https://github.com/" />
